@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Windows.Forms;
+
 namespace RegDecoder
 {
     public class SubExpression : Element

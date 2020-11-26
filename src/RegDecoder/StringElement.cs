@@ -1,10 +1,13 @@
 ﻿using System;
 namespace RegDecoder
 {
-    public class StringElement
+    public class StringElement : Element
     {
-        public StringElement()
+        public StringElement(string text)
         {
+            this.Image = ImageType.Conditional;
+            this.Description = text;
+            this.Literal = text;
         }
     }
 }

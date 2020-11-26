@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>System.Windows.Forms</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Interop.MB" />
+  </ItemGroup>
 </Project>

@@ -6,5 +6,10 @@ namespace System.Windows.Forms
         public MessageBox()
         {
         }
+
+        public static int Show(string msg, string v, object oK, object hand)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
