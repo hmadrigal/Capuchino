@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Ultrapico</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Undo\" />
+  </ItemGroup>
+</Project>
