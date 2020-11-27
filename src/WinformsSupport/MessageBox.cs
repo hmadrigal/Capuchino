@@ -7,7 +7,7 @@ namespace System.Windows.Forms
         {
         }
 
-        public static int Show(string msg, string v, object oK, object hand)
+        public static int Show(string message, string title, MessageBoxButtons buttons, MessageBoxIcon icon)
         {
             throw new NotImplementedException();
         }

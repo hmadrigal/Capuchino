@@ -7,7 +7,7 @@ namespace System.Windows.Forms
     {
         public TreeNode(string text)
         {
-            
+            this.Text = text;
         }
 
         public Color ForeColor { get; set; }
