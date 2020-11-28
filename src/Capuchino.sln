@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsSupport", "Winforms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capuchino.ConsoleApp", "Capuchino.ConsoleApp\Capuchino.ConsoleApp.csproj", "{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expresso", "Expresso\Expresso.csproj", "{4C7280D5-701C-47E7-BC85-A844A5436258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7280D5-701C-47E7-BC85-A844A5436258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7280D5-701C-47E7-BC85-A844A5436258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7280D5-701C-47E7-BC85-A844A5436258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7280D5-701C-47E7-BC85-A844A5436258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
