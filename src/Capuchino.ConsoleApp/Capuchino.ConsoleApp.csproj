@@ -9,5 +9,6 @@
     <ProjectReference Include="..\RegDecoder\RegDecoder.csproj" />
     <ProjectReference Include="..\WinformsSupport\WinformsSupport.csproj" />
     <ProjectReference Include="..\Builder\Builder.csproj" />
+    <ProjectReference Include="..\Expresso\Expresso.csproj" />
   </ItemGroup>
 </Project>
