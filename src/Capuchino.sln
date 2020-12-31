@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.808.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegDecoder", "RegDecoder\RegDecoder.csproj", "{46005526-1943-4A9D-A1A3-77286E2F902C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegDecoder", "RegDecoder\RegDecoder.csproj", "{46005526-1943-4A9D-A1A3-77286E2F902C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsSupport", "WinformsSupport\WinformsSupport.csproj", "{831941A7-DCD8-4F86-9617-AED7DDA2AEE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinformsSupport", "WinformsSupport\WinformsSupport.csproj", "{831941A7-DCD8-4F86-9617-AED7DDA2AEE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{7A8818F4-082A-47BD-AB95-5B9BC2D459C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capuchino.ConsoleApp", "Capuchino.ConsoleApp\Capuchino.ConsoleApp.csproj", "{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capuchino.ConsoleApp", "Capuchino.ConsoleApp\Capuchino.ConsoleApp.csproj", "{705B5FEE-F71F-4B57-B8B2-5A842CE108E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expresso", "Expresso\Expresso.csproj", "{4C7280D5-701C-47E7-BC85-A844A5436258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expresso", "Expresso\Expresso.csproj", "{4C7280D5-701C-47E7-BC85-A844A5436258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capuchino.AvaloniaApp", "Capuchino.AvaloniaApp\Capuchino.AvaloniaApp.csproj", "{5C4677B9-8D78-45C9-AF73-BEE359F05961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4C7280D5-701C-47E7-BC85-A844A5436258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7280D5-701C-47E7-BC85-A844A5436258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7280D5-701C-47E7-BC85-A844A5436258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4677B9-8D78-45C9-AF73-BEE359F05961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4677B9-8D78-45C9-AF73-BEE359F05961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4677B9-8D78-45C9-AF73-BEE359F05961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4677B9-8D78-45C9-AF73-BEE359F05961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
